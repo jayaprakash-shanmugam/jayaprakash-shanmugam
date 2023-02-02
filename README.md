@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam.github.io/blob/main/LINKEDIN%20BCK%20PHOTO.png)](jayaprakash-shanmugam.github.io)
-<h1 align="center">Hi 👋, I'm Abiraham Lincoln</h1>
+<h1 align="center">Hi 👋, I'm Jayaprakash</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaprakash-shanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="jayaprakash-shanmugam" /> </p>
