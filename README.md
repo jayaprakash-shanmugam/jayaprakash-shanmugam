@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/main/Enjoy%20what%20you%20do!.png)](jayaprakash-shanmugam.github.io)
+[![MasterHead](https://https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/main/joey%20lawsin.png)](jayaprakash-shanmugam.github.io)
 <h1 align="center">Hi 👋, I'm Jayaprakash</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
