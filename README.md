@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="330" src="https://jayaprakash-shanmugam.com/assets/github.gif">
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
 
-- 👨‍💻 All of my projects are available at [jayaprakash-shanmugam's Projects]([https://jayaprakash-shanmugam.com](https://github.com/jayaprakash-shanmugam?tab=repositories ))
+- 👨‍💻 All of my projects are available at [jayaprakash-shanmugam's Projects](https://jayaprakash-shanmugam.com](https://github.com/jayaprakash-shanmugam?tab=repositories )
 
 - 💬 Ask me about **Learning Data Science with hands-on experience in Machine learning, Predictive Modelling, Clustering, Time Series Forecasting, Natural Language Processing, Programming Languages such as Python, Data Visualization tools such as Power BI.**
 
