@@ -82,9 +82,7 @@ const Jayaprakash = {
 
 <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=jayaprakash-shanmugam
-&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="jayaprakash-shanmugam
- Github Graph" /> </p> 
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=jayaprakash-shanmugam&theme=vue&hide_border=true)](https://git.io/streak-stats) </p> 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
 <p align="center"> <img  width="900em" alt="Jayaprakash's Github comitte snake"  src="https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
