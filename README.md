@@ -82,8 +82,7 @@ const Jayaprakash = {
 
 <h4 align="center">My contribution graph</h4>
 	  
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayaprakash-shanmugam&theme=vue&hide_border=true)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaprakash-shanmugam)](https://github.com/jayaprakash-shanmugam/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jayaprakash-shanmugam&theme=vue&hide_border=true)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaprakash-shanmugam)](https://github.com/jayaprakash-shanmugam/github-readme-stats)
 	  
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
