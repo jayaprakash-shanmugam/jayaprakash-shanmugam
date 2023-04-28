@@ -87,6 +87,6 @@ const Jayaprakash = {
 	  
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
-<p align="center"> <img  width="900em" alt="Jayaprakash's Github comitte snake"  src="https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
+![snake gif](https://github.com/jayaprakash-shanmugam/jayaprakash-shanmugam/blob/output/github-contribution-grid-snake.gif)
     
 
