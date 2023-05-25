@@ -29,7 +29,7 @@
 ```javascript
 const Jayaprakash = {
    pronouns: "he" | "him",
-   code: [C,Java],
+   code: [Python,Java],
    askMeAbout: ["Data visualization","Machine Learning"],
    technologies: {
        frontEnd: [
